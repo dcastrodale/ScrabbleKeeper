@@ -4,7 +4,8 @@
   "description": "A Score keeper for scrabble",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start" : "webpack-dev-server --open"
   },
   "keywords": [
     "Scrabble"
