@@ -1,0 +1,14 @@
+{
+  "name": "scrabblekeeper",
+  "version": "0.0.1",
+  "description": "A Score keeper for scrabble",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Scrabble"
+  ],
+  "author": "David Castrodale",
+  "license": "UNLICENSED"
+}
