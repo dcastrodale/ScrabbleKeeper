@@ -1,0 +1,2 @@
+export const PLAYER_ADDED ='PLAYER_ADDED';
+export const SCORE_UPDATED = 'SCORE_UPDATED';
